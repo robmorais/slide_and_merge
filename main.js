@@ -36,7 +36,7 @@ function initializeLevel() {
 
     updateObjectiveDisplay();
     updateRemainingMovesDisplay();
-    updateGameInstruction("Use arrow keys or W, A, S, D to slide and merge the tiles. Your goal is to create a row with three consecutive numbers (e.g., 2, 4, 8) within the given move limit.");
+    updateGameInstruction("Use arrow keys or touch and drag to slide and merge the tiles. \nYour need to reach the goal within the given move limit.");
     updateGridDisplay();
 }
 
